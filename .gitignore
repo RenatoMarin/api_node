@@ -1,0 +1,13 @@
+.idea/
+.vscode/
+.cache
+.parcel-cache
+node_modules
+/vendor/
+npm-debug.log
+.DS_Store
+Thumbs.db
+.svn
+.cvs
+*.bak
+*.swp
